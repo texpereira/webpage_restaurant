@@ -1,0 +1,51 @@
+*{
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    margin: 0;
+}
+
+.colornav {
+    background-color: #e02d2d;
+}
+.navbar-nav a {
+    color: #ffffff !important;
+}
+.alineacion {
+    margin-left: auto;
+}
+.fuentenav {
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+
+.title {
+    background-image: url('/colibri/assets/img/bandera.jpg');
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-size: cover;
+    font-size: 72px;
+    font-weight: 500;
+    text-shadow: none;
+}
+
+.card-img-top {
+    height: 200px;
+    width: 100px;
+    object-fit: cover;
+}
+
+
+#aceptamos {
+    background-color: #2042da;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+footer img {
+    width: 54px;
+
+
+}
